@@ -7,12 +7,16 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-
     <EditText
-        android:inputType="number"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/et1"
+        android:id="@+id/e1"
+        android:hint="Enter your Login ID"/>
+    <EditText
+        android:inputType="textPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/e2"
         android:hint="Enter Password"
         />
     <Button
@@ -20,6 +24,14 @@
         android:layout_height="wrap_content"
         android:onClick="login"
         android:text="Login"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/t1"
+        android:text="Sample"
+        android:textSize="20sp"
         />
 
 </LinearLayout>
