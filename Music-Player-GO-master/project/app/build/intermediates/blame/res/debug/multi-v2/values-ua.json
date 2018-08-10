@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\admin\\AndroidStudioProjects\\Music-Player-GO-master\\project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ua\\values-ua.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\admin\\AndroidStudioProjects\\Music-Player-GO-master\\project\\app\\src\\main\\res\\values-ua\\strings.xml",
+                    "from": {
+                        "startLines": "1,7,3,6,4,2,5",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "17,428,130,367,191,71,252",
+                        "endColumns": "52,106,59,59,59,57,113",
+                        "endOffsets": "65,530,185,422,246,124,361"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,200,260,320,380,438",
+                        "endColumns": "52,91,59,59,59,57,113",
+                        "endOffsets": "103,195,255,315,375,433,547"
+                    }
+                }
+            ]
+        }
+    ]
+}

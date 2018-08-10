@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\admin\\AndroidStudioProjects\\Music-Player-GO-master\\project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-de\\values-de.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\admin\\AndroidStudioProjects\\Music-Player-GO-master\\project\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "from": {
+                        "startLines": "1,4,3,7,5,2,6",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "17,187,128,502,292,68,355",
+                        "endColumns": "49,103,57,72,61,58,145",
+                        "endOffsets": "62,286,181,570,349,122,496"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,194,252,325,387,446",
+                        "endColumns": "49,88,57,72,61,58,145",
+                        "endOffsets": "100,189,247,320,382,441,587"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\48fa40f3febcae3e2993589489ffa456\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "592",
+                        "endColumns": "100",
+                        "endOffsets": "688"
+                    }
+                }
+            ]
+        }
+    ]
+}
