@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Start"
+        android:id="@+id/start"/>
+    <item android:title="run"
+        android:id="@+id/run"/>
+    <item android:title="stop"
+        android:id="@+id/stop"/>
+</menu>
